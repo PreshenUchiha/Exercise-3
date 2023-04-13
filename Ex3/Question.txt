@@ -1,0 +1,14 @@
+﻿Console.WriteLine("Bagel Prices");
+Console.WriteLine("Bagel            | Price ");
+Console.WriteLine("---------------------");
+Console.WriteLine("Plain (P)        | 7.50  ");
+Console.WriteLine("Whole Wheat (W)  | 9.25 ");
+Console.WriteLine("Raisin (R)       | 10.50 ");
+Console.WriteLine();
+
+// Output the filling prices
+Console.WriteLine("Filling Additional cost ");
+Console.WriteLine("Filling          | Price ");
+Console.WriteLine("--------------------------");
+Console.WriteLine("Cream cheese (C) | 1.50  ");
+Console.WriteLine("Salad (S)        | 3.25  ");
